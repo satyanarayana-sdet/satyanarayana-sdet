@@ -18,9 +18,9 @@ Playwright and JavaScript framework with Page Object Model, data-driven tests, l
 
 **Testing:** Manual testing, Blackbox testing, Test case design, Defect reporting, Regression testing
 
-**Automation:** Playwright (JavaScript), Selenium WebDriver, TestNG, Cucumber (BDD), Page Object Model
+**Automation:** Playwright (JavaScript), Selenium (Java), TestNG, Cucumber (BDD), Page Object Model
 
-**API and Performance:** Postman, REST Assured, Karate, JMeter
+**API and Performance:** Postman, REST Assured, JMeter
 
 **Tools:** Git, Jenkins, Maven, JIRA, GitHub Actions
 
